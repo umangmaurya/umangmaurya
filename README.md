@@ -1,7 +1,5 @@
-Hi 👋 My name is Umang Maurya
-=============================
-
-Software Engineer at Service Now
+<h1 align="center">Hi 👋, I'm Umang Maurya</h1>
+<h3 align="center">Software Engineer</h3>
 --------------------------------
 
 I have been learning to code and builiding frontend part of web applications for 4 years, I am proficient in Javascript, Typescript with React Js ( Next Js), React-native(for Mobile app), and in css frameworks : Tailwind CSS, SCSS etc.
