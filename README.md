@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umang Maurya</h1>
+<h1 align="center">Hi 👋, I'm Umang</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="umangmaurya" /> </p>
