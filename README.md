@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umang Maurya</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="umangmaurya" /> </p>
+
+
 I have been learning to code and builiding frontend part of web applications for 4 years, I am proficient in Javascript, Typescript with React Js ( Next Js), React-native(for Mobile app), and in css frameworks : Tailwind CSS, SCSS etc.
 
 * 🌍  I'm based in Hyderabad, India
