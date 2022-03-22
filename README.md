@@ -19,8 +19,8 @@ I have been learning to code and builiding frontend part of web applications for
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=Spring&logoColor=white&color=blueviolet)
 
