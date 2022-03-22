@@ -1,7 +1,11 @@
+![Umang's GitHub Banner](./Assets/banner.gif)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="umangmaurya" /> </p>
 
 
+<h4> Hi  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px"> visitor, hopefully you're doing well for your health and wealth.</h4>
+
+I'm Umang, a self-proclaimed full stack developer & enthusiastic learner,
 I have been learning to code and builiding frontend part of web applications for 4 years, I am proficient in Javascript, Typescript with React Js ( Next Js), React-native(for Mobile app), and in css frameworks : Tailwind CSS, SCSS etc.
 
 * 🌍  I'm from Allahabad, Uttar Pradesh, India, current work location in Hyderabad, India.
@@ -17,10 +21,13 @@ I have been learning to code and builiding frontend part of web applications for
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=Next&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=for-the-badge&logo=Node&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=Spring&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=blueviolet)
+
+
 
 
 <details>
