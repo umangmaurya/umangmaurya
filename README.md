@@ -1,6 +1,6 @@
 ![Umang's GitHub Banner](./Assets/banner.gif)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="umangmaurya" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=FFBF00&style=for-the-badge" alt="umangmaurya" /> </p>
 
 
 <h4> Hi  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px"> visitor, hopefully you're doing well for your health and wealth.</h4>
@@ -60,8 +60,8 @@ I have been learning to code and builiding frontend part of web applications for
 <h4>Connect with me </h4>
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/umangmaurya30)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/umang-ethan-bourne/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/umang-maurya)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/umangmaurya30)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/umang-ethan-bourne/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=for-the-badge&logo=codepen&logoColor=white&color=black)](https://codepen.io/umang-maurya)
 
 
