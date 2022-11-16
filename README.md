@@ -10,7 +10,7 @@ I have been learning to code and builiding frontend part of web applications for
 
 * 🌍  I'm from Allahabad, Uttar Pradesh, India, current work location in Hyderabad, India.
 * ✉️  You can contact me at [umangmaurya@outlook.com](mailto:umangmaurya@outlook.com)
-* 🧠  I'm learning Backend development with Node Js and Mongo DB
+* 🧠  I'm learning Backend development.
 
 <br>
 
