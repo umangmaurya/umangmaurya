@@ -3,14 +3,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=umangmaurya&label=Profile%20views&color=FFBF00&style=for-the-badge" alt="umangmaurya" /> </p>
 
 
-<h4> Hi  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px"> visitor, hopefully you're doing well for your health and wealth.</h4>
+<h4> Hi  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px"> visitor, hopefully, you're doing well for your health and wealth.</h4>
 
-I'm Umang, a self-proclaimed full stack developer & enthusiastic learner,
-I have been learning to code and builiding frontend part of web applications for 4 years, I am proficient in Javascript, Typescript with React Js ( Next Js), React-native(for Mobile app), and in css frameworks : Tailwind CSS, SCSS etc.
+I'm Umang, a full-stack developer & enthusiastic learner,
+I have been learning to code and building frontend parts of web applications for 5 years, I am proficient in Javascript, Typescript with React Js ( Next Js), React-native(for Mobile apps), and in CSS frameworks: Tailwind CSS, SCSS, etc.
 
-* 🌍  I'm from Allahabad, Uttar Pradesh, India, current work location in Hyderabad, India.
-* ✉️  You can contact me at [umangmaurya@outlook.com](mailto:umangmaurya@outlook.com)
-* 🧠  I'm learning Backend development.
+* I'm from Allahabad, Uttar Pradesh, India, current work location is in Hyderabad, India.
+* You can contact me at [umangmaurya@outlook.com](mailto:umangmaurya@outlook.com)
+* I'm learning Backend development.
 
 <br>
 
